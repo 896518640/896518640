@@ -6,11 +6,12 @@
 - 💞️ wx:Dongda132188 qq:896518640
 - 📫 [CSDN](https://blog.csdn.net/weixin_52624209?type=blog)
 - 💬 [my blog](http://nanmu.xyz/)
-
+<p>
 <img src='https://img.shields.io/badge/CSDN-%E8%B2%82%E8%9D%89%E7%9A%84%E8%85%BF%E6%AF%9B-blue' />
-<img src='https://img.shields.io/badge/-vue.js-skyblue?style=plastic&logo=vue.js&labelColor=aaaaaa' />
-<img src='https://img.shields.io/badge/-javascript-green?style=plastic&logo=javascript&labelColor=bbbbbb' />
+<img src='https://img.shields.io/badge/-vue.js-4FC08D?style=plastic&logo=vue.js&labelColor=ffffff' /> 
+<img src='https://img.shields.io/badge/-javascript-yellow?style=plastic&logo=javascript&labelColor=F7DF1E&color=fedcba' />
 <img src='https://img.shields.io/badge/-node.js-green?style=plastic&logo=node.js&labelColor=cccccc' />
+</p>
 
 ![Liudongdong's GitHub stats](https://github-readme-stats.vercel.app/api?username=896518640&show_icons=true&theme=radical)
 <!---
